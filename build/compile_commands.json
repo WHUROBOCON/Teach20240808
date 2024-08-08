@@ -1,0 +1,8 @@
+[
+{
+  "directory": "E:/CODE/c learning/build",
+  "command": "C:\\mingw64\\bin\\gcc.exe -g -o CMakeFiles\\v1.dir\\src\\continue.c.obj -c \"E:\\CODE\\c learning\\src\\continue.c\"",
+  "file": "E:\\CODE\\c learning\\src\\continue.c",
+  "output": "CMakeFiles\\v1.dir\\src\\continue.c.obj"
+}
+]
