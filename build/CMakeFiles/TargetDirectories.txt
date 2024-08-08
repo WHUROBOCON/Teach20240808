@@ -1,3 +1,0 @@
-E:/CODE/c learning/build/CMakeFiles/v1.dir
-E:/CODE/c learning/build/CMakeFiles/edit_cache.dir
-E:/CODE/c learning/build/CMakeFiles/rebuild_cache.dir
