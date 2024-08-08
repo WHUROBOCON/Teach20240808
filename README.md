@@ -1,1 +1,1 @@
-# WelCome to WHUROBOCON!
+# Welcome to WHUROBOCON!
