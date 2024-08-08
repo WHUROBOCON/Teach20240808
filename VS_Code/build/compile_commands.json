@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/Cpp_Study/VS_Code/build",
+  "command": "D:\\mingw\\bin\\gcc.exe  @CMakeFiles/queue.dir/includes_C.rsp -g -o CMakeFiles\\queue.dir\\src\\queue.obj -c D:\\Cpp_Study\\VS_Code\\src\\queue.c",
+  "file": "D:/Cpp_Study/VS_Code/src/queue.c",
+  "output": "CMakeFiles/queue.dir/src/queue.obj"
+}
+]
