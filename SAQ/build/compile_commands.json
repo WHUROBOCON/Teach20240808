@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/54388/Desktop/SAQ/build",
+  "command": "C:\\MinGW\\bin\\gcc.exe -IC:/Users/54388/Desktop/SAQ/. -g -o CMakeFiles\\stack.dir\\src\\stack.obj -c C:\\Users\\54388\\Desktop\\SAQ\\src\\stack.c",
+  "file": "C:\\Users\\54388\\Desktop\\SAQ\\src\\stack.c",
+  "output": "CMakeFiles\\stack.dir\\src\\stack.obj"
+},
+{
+  "directory": "C:/Users/54388/Desktop/SAQ/build",
+  "command": "C:\\MinGW\\bin\\gcc.exe -IC:/Users/54388/Desktop/SAQ/. -g -o CMakeFiles\\queue.dir\\src\\queue.obj -c C:\\Users\\54388\\Desktop\\SAQ\\src\\queue.c",
+  "file": "C:\\Users\\54388\\Desktop\\SAQ\\src\\queue.c",
+  "output": "CMakeFiles\\queue.dir\\src\\queue.obj"
+}
+]

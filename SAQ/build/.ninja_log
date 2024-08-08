@@ -1,0 +1,5 @@
+# ninja log v5
+6	114	7447873407447646	CMakeFiles/stack.dir/src/stack.obj	ca00c9fe99923c21
+127	257	7447873408851252	queue.exe	cc0b473f1a8be9a0
+10	126	7447873407447646	CMakeFiles/queue.dir/src/queue.obj	c2c49412d97ebcd4
+115	254	7447873408806604	stack.exe	aa7549e2027f280f

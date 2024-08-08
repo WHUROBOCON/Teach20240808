@@ -1,0 +1,4 @@
+C:/Users/54388/Desktop/SAQ/build/CMakeFiles/stack.dir
+C:/Users/54388/Desktop/SAQ/build/CMakeFiles/queue.dir
+C:/Users/54388/Desktop/SAQ/build/CMakeFiles/edit_cache.dir
+C:/Users/54388/Desktop/SAQ/build/CMakeFiles/rebuild_cache.dir
