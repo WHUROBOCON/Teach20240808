@@ -33,11 +33,14 @@ bool queue_clear(Queue_t *queue) // 清空队列
 {
     if (queue_is_empty(queue))
         return false;
-    while (queue->front != queue->rear)
+    if (queue->front != NULL)
     {
-        free(queue->front); // 释放队头元素
-        queue->front--;     // 队头指针后移
+        free(queue->front);
+        queue->front = NULL;
     }
+    queue->front = NULL;
+    queue->rear = NULL;
+    queue->size = NULL;
     return true;
 }
 bool queue_is_empty(Queue_t *queue) // 判断队列是否为空
