@@ -1,3 +1,0 @@
-F:\CMAKE\bin\cmake.exe -E rm -f CMakeFiles\queue.dir/objects.a
-F:\MinGW\bin\ar.exe qc CMakeFiles\queue.dir/objects.a @CMakeFiles\queue.dir\objects1.rsp
-F:\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\queue.dir/objects.a -Wl,--no-whole-archive -o queue.exe -Wl,--out-implib,libqueue.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\queue.dir\linkLibs.rsp
