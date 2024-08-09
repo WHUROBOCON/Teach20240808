@@ -41,28 +41,28 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "doublelist::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-doublelist-Debug-496df6db66ced8f0f9fb.json",
+					"jsonFile" : "target-doublelist-Debug-41f7d3df810b75651669.json",
 					"name" : "doublelist",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "list::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-list-Debug-71ea42224cc83678fedc.json",
+					"jsonFile" : "target-list-Debug-06e18c592c38862c978e.json",
 					"name" : "list",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "queue::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-queue-Debug-03273d6e67df32d3b129.json",
+					"jsonFile" : "target-queue-Debug-f2d651fb270b318780df.json",
 					"name" : "queue",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "stack::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-stack-Debug-889d46044b1b14f75d99.json",
+					"jsonFile" : "target-stack-Debug-56e9faaaf32eab974f40.json",
 					"name" : "stack",
 					"projectIndex" : 0
 				}
@@ -72,8 +72,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "D:/test/build",
-		"source" : "D:/test"
+		"build" : "D:/QQ/ROBON/Teach20240808/test-8.7-8.8/build",
+		"source" : "D:/QQ/ROBON/Teach20240808/test-8.7-8.8"
 	},
 	"version" : 
 	{

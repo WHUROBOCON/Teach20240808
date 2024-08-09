@@ -67,7 +67,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "d:/test/build"
+			"value" : "d:/QQ/ROBON/Teach20240808/test-8.7-8.8/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -583,7 +583,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/test/build/CMakeFiles/pkgRedirects"
+			"value" : "D:/QQ/ROBON/Teach20240808/test-8.7-8.8/build/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -655,7 +655,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "D:/test"
+			"value" : "D:/QQ/ROBON/Teach20240808/test-8.7-8.8"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1327,7 +1327,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/test/build"
+			"value" : "D:/QQ/ROBON/Teach20240808/test-8.7-8.8/build"
 		},
 		{
 			"name" : "doublelist_IS_TOP_LEVEL",
@@ -1351,7 +1351,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/test"
+			"value" : "D:/QQ/ROBON/Teach20240808/test-8.7-8.8"
 		},
 		{
 			"name" : "list_BINARY_DIR",
@@ -1363,7 +1363,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/test/build"
+			"value" : "D:/QQ/ROBON/Teach20240808/test-8.7-8.8/build"
 		},
 		{
 			"name" : "list_IS_TOP_LEVEL",
@@ -1387,7 +1387,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/test"
+			"value" : "D:/QQ/ROBON/Teach20240808/test-8.7-8.8"
 		},
 		{
 			"name" : "queue_BINARY_DIR",
@@ -1399,7 +1399,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/test/build"
+			"value" : "D:/QQ/ROBON/Teach20240808/test-8.7-8.8/build"
 		},
 		{
 			"name" : "queue_IS_TOP_LEVEL",
@@ -1423,7 +1423,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/test"
+			"value" : "D:/QQ/ROBON/Teach20240808/test-8.7-8.8"
 		},
 		{
 			"name" : "stack_BINARY_DIR",
@@ -1435,7 +1435,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/test/build"
+			"value" : "D:/QQ/ROBON/Teach20240808/test-8.7-8.8/build"
 		},
 		{
 			"name" : "stack_IS_TOP_LEVEL",
@@ -1459,7 +1459,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/test"
+			"value" : "D:/QQ/ROBON/Teach20240808/test-8.7-8.8"
 		}
 	],
 	"kind" : "cache",

@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "stack.exe"
+			"path" : "list.exe"
 		},
 		{
-			"path" : "stack.pdb"
+			"path" : "list.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -28,7 +28,7 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 4,
+				"line" : 10,
 				"parent" : 0
 			},
 			{
@@ -52,7 +52,7 @@
 			[
 				{
 					"backtrace" : 2,
-					"path" : "D:/test/."
+					"path" : "D:/QQ/ROBON/Teach20240808/test-8.7-8.8/."
 				}
 			],
 			"language" : "C",
@@ -62,7 +62,7 @@
 			]
 		}
 	],
-	"id" : "stack::@6890427a1f51a3e7e1df",
+	"id" : "list::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -82,8 +82,8 @@
 		],
 		"language" : "C"
 	},
-	"name" : "stack",
-	"nameOnDisk" : "stack.exe",
+	"name" : "list",
+	"nameOnDisk" : "list.exe",
 	"paths" : 
 	{
 		"build" : ".",
@@ -104,7 +104,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "src/stack.c",
+			"path" : "src/list.c",
 			"sourceGroupIndex" : 0
 		}
 	],

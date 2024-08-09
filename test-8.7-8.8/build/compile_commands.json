@@ -1,26 +1,26 @@
 [
 {
-  "directory": "D:/test/build",
-  "command": "D:\\minGW\\bin\\gcc.exe -ID:/test/. -g -o CMakeFiles\\stack.dir\\src\\stack.obj -c D:\\test\\src\\stack.c",
-  "file": "D:\\test\\src\\stack.c",
+  "directory": "D:/QQ/ROBON/Teach20240808/test-8.7-8.8/build",
+  "command": "D:\\minGW\\bin\\gcc.exe -ID:/QQ/ROBON/Teach20240808/test-8.7-8.8/. -g -o CMakeFiles\\stack.dir\\src\\stack.obj -c D:\\QQ\\ROBON\\Teach20240808\\test-8.7-8.8\\src\\stack.c",
+  "file": "D:\\QQ\\ROBON\\Teach20240808\\test-8.7-8.8\\src\\stack.c",
   "output": "CMakeFiles\\stack.dir\\src\\stack.obj"
 },
 {
-  "directory": "D:/test/build",
-  "command": "D:\\minGW\\bin\\gcc.exe -ID:/test/. -g -o CMakeFiles\\queue.dir\\src\\queue.obj -c D:\\test\\src\\queue.c",
-  "file": "D:\\test\\src\\queue.c",
+  "directory": "D:/QQ/ROBON/Teach20240808/test-8.7-8.8/build",
+  "command": "D:\\minGW\\bin\\gcc.exe -ID:/QQ/ROBON/Teach20240808/test-8.7-8.8/. -g -o CMakeFiles\\queue.dir\\src\\queue.obj -c D:\\QQ\\ROBON\\Teach20240808\\test-8.7-8.8\\src\\queue.c",
+  "file": "D:\\QQ\\ROBON\\Teach20240808\\test-8.7-8.8\\src\\queue.c",
   "output": "CMakeFiles\\queue.dir\\src\\queue.obj"
 },
 {
-  "directory": "D:/test/build",
-  "command": "D:\\minGW\\bin\\gcc.exe -ID:/test/. -g -o CMakeFiles\\list.dir\\src\\list.obj -c D:\\test\\src\\list.c",
-  "file": "D:\\test\\src\\list.c",
+  "directory": "D:/QQ/ROBON/Teach20240808/test-8.7-8.8/build",
+  "command": "D:\\minGW\\bin\\gcc.exe -ID:/QQ/ROBON/Teach20240808/test-8.7-8.8/. -g -o CMakeFiles\\list.dir\\src\\list.obj -c D:\\QQ\\ROBON\\Teach20240808\\test-8.7-8.8\\src\\list.c",
+  "file": "D:\\QQ\\ROBON\\Teach20240808\\test-8.7-8.8\\src\\list.c",
   "output": "CMakeFiles\\list.dir\\src\\list.obj"
 },
 {
-  "directory": "D:/test/build",
-  "command": "D:\\minGW\\bin\\gcc.exe -ID:/test/. -g -o CMakeFiles\\doublelist.dir\\src\\doublelist.obj -c D:\\test\\src\\doublelist.c",
-  "file": "D:\\test\\src\\doublelist.c",
+  "directory": "D:/QQ/ROBON/Teach20240808/test-8.7-8.8/build",
+  "command": "D:\\minGW\\bin\\gcc.exe -ID:/QQ/ROBON/Teach20240808/test-8.7-8.8/. -g -o CMakeFiles\\doublelist.dir\\src\\doublelist.obj -c D:\\QQ\\ROBON\\Teach20240808\\test-8.7-8.8\\src\\doublelist.c",
+  "file": "D:\\QQ\\ROBON\\Teach20240808\\test-8.7-8.8\\src\\doublelist.c",
   "output": "CMakeFiles\\doublelist.dir\\src\\doublelist.obj"
 }
 ]

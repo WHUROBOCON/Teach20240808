@@ -99,7 +99,7 @@ rule CUSTOM_COMMAND
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = D:\cmake\bin\cmake.exe --regenerate-during-build -SD:\test -BD:\test\build
+  command = D:\cmake\bin\cmake.exe --regenerate-during-build -SD:\QQ\ROBON\Teach20240808\test-8.7-8.8 -BD:\QQ\ROBON\Teach20240808\test-8.7-8.8\build
   description = Re-running CMake...
   generator = 1
 
