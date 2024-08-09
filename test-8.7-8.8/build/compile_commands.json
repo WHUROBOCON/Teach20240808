@@ -1,0 +1,26 @@
+[
+{
+  "directory": "D:/test/build",
+  "command": "D:\\minGW\\bin\\gcc.exe -ID:/test/. -g -o CMakeFiles\\stack.dir\\src\\stack.obj -c D:\\test\\src\\stack.c",
+  "file": "D:\\test\\src\\stack.c",
+  "output": "CMakeFiles\\stack.dir\\src\\stack.obj"
+},
+{
+  "directory": "D:/test/build",
+  "command": "D:\\minGW\\bin\\gcc.exe -ID:/test/. -g -o CMakeFiles\\queue.dir\\src\\queue.obj -c D:\\test\\src\\queue.c",
+  "file": "D:\\test\\src\\queue.c",
+  "output": "CMakeFiles\\queue.dir\\src\\queue.obj"
+},
+{
+  "directory": "D:/test/build",
+  "command": "D:\\minGW\\bin\\gcc.exe -ID:/test/. -g -o CMakeFiles\\list.dir\\src\\list.obj -c D:\\test\\src\\list.c",
+  "file": "D:\\test\\src\\list.c",
+  "output": "CMakeFiles\\list.dir\\src\\list.obj"
+},
+{
+  "directory": "D:/test/build",
+  "command": "D:\\minGW\\bin\\gcc.exe -ID:/test/. -g -o CMakeFiles\\doublelist.dir\\src\\doublelist.obj -c D:\\test\\src\\doublelist.c",
+  "file": "D:\\test\\src\\doublelist.c",
+  "output": "CMakeFiles\\doublelist.dir\\src\\doublelist.obj"
+}
+]

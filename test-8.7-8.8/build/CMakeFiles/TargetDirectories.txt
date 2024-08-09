@@ -1,0 +1,6 @@
+D:/test/build/CMakeFiles/stack.dir
+D:/test/build/CMakeFiles/queue.dir
+D:/test/build/CMakeFiles/list.dir
+D:/test/build/CMakeFiles/doublelist.dir
+D:/test/build/CMakeFiles/edit_cache.dir
+D:/test/build/CMakeFiles/rebuild_cache.dir
