@@ -1,0 +1,13 @@
+# ninja log v6
+2	291	7448204111216928	CMakeFiles/stack.dir/src/stack.c.obj	20fc9ff5c6c468cc
+382	819	7448277357167731	doublelist.exe	860cae4967be7826
+2	296	7448277353366888	CMakeFiles/queue.dir/src/queue.c.obj	3d8f7bcf5ca3e65b
+291	700	7448204114102845	stack.exe	193d7ceb0e4bc4f9
+296	738	7448277356297308	queue.exe	6a30910dd510837c
+352	796	7448277356862660	list.exe	c1e99cb6d34e39db
+27	352	7448277353610366	CMakeFiles/list.dir/src/list.c.obj	6c04bc11dc3e7862
+53	382	7448277353869046	CMakeFiles/doublelist.dir/src/doublelist.c.obj	997269f1ac3202fa
+2	379	7448707257228720	CMakeFiles/list.dir/src/list.c.obj	6c04bc11dc3e7862
+29	398	7448707257483579	CMakeFiles/doublelist.dir/src/doublelist.c.obj	997269f1ac3202fa
+379	826	7448707260905090	list.exe	c1e99cb6d34e39db
+398	846	7448707261168575	doublelist.exe	860cae4967be7826

@@ -1,0 +1,26 @@
+[
+{
+  "directory": "D:/c++/kin/build",
+  "command": "C:\\MinGW\\bin\\gcc.exe -ID:/c++/kin/. -g -o CMakeFiles\\stack.dir\\src\\stack.c.obj -c D:\\c++\\kin\\src\\stack.c",
+  "file": "D:\\c++\\kin\\src\\stack.c",
+  "output": "CMakeFiles\\stack.dir\\src\\stack.c.obj"
+},
+{
+  "directory": "D:/c++/kin/build",
+  "command": "C:\\MinGW\\bin\\gcc.exe -ID:/c++/kin/. -g -o CMakeFiles\\queue.dir\\src\\queue.c.obj -c D:\\c++\\kin\\src\\queue.c",
+  "file": "D:\\c++\\kin\\src\\queue.c",
+  "output": "CMakeFiles\\queue.dir\\src\\queue.c.obj"
+},
+{
+  "directory": "D:/c++/kin/build",
+  "command": "C:\\MinGW\\bin\\gcc.exe -ID:/c++/kin/. -g -o CMakeFiles\\list.dir\\src\\list.c.obj -c D:\\c++\\kin\\src\\list.c",
+  "file": "D:\\c++\\kin\\src\\list.c",
+  "output": "CMakeFiles\\list.dir\\src\\list.c.obj"
+},
+{
+  "directory": "D:/c++/kin/build",
+  "command": "C:\\MinGW\\bin\\gcc.exe -ID:/c++/kin/. -g -o CMakeFiles\\doublelist.dir\\src\\doublelist.c.obj -c D:\\c++\\kin\\src\\doublelist.c",
+  "file": "D:\\c++\\kin\\src\\doublelist.c",
+  "output": "CMakeFiles\\doublelist.dir\\src\\doublelist.c.obj"
+}
+]

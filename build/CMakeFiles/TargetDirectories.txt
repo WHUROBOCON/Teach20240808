@@ -1,0 +1,6 @@
+D:/c++/kin/build/CMakeFiles/stack.dir
+D:/c++/kin/build/CMakeFiles/queue.dir
+D:/c++/kin/build/CMakeFiles/list.dir
+D:/c++/kin/build/CMakeFiles/doublelist.dir
+D:/c++/kin/build/CMakeFiles/edit_cache.dir
+D:/c++/kin/build/CMakeFiles/rebuild_cache.dir
