@@ -1,0 +1,6 @@
+C:/Users/belov/Desktop/C/build/CMakeFiles/stack.dir
+C:/Users/belov/Desktop/C/build/CMakeFiles/queue.dir
+C:/Users/belov/Desktop/C/build/CMakeFiles/list.dir
+C:/Users/belov/Desktop/C/build/CMakeFiles/doublelist.dir
+C:/Users/belov/Desktop/C/build/CMakeFiles/edit_cache.dir
+C:/Users/belov/Desktop/C/build/CMakeFiles/rebuild_cache.dir
